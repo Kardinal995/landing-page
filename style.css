@@ -128,3 +128,7 @@ h3 {
     font-weight: 900;
     padding-top: 10px;
 }
+
+.quote {
+    display: flex;
+}
